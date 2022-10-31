@@ -1,0 +1,32 @@
+body{
+    background: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+}
+#note{
+    font-size: 15px ;
+}
+input{
+    width: 75%;
+    height: 30px;
+    border-radius: 15px;
+}
+#start{
+    margin-top: 25px;
+    font-size: 17px;
+}
+#status, #sure{
+    font-size: 18px;
+    margin-top: 25px;
+}
+canvas{
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 10px gray;
+}
